@@ -1,10 +1,8 @@
 package com.yaba;
 /**
- * Realizar las siguientes series numéricas utilizando las estructuras repetitivas:
+ * Realizar la siguientes serie numéricas utilizando las estructuras repetitivas:
  * for, while y do‐while.
  *  1, 2, 3, 4, 5, 6, 7, 8, 9, 10
- *  1, 99, 2, 98, 3, 97, 4, 96, 5, 95
- *  0, 1, 1, 2, 3, 5, 8, 13, 21, 3
  */
 
 public class Ciclos{
